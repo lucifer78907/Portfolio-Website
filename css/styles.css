@@ -7,10 +7,19 @@
 h1{
     font-family: 'Ubuntu', sans-serif;
     font-weight: bold;
-    padding-top: 7%;
+    padding-top: 10%;
     color: #00ADB5;
     font-size: 4rem;
 }
 #h1-span{
     text-decoration: underline;
+}
+#know-me{
+    background-color: #EEEEEE;
+    text-align: center;
+}
+#about-me{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 700;
+    font-size: 3rem;
 }
