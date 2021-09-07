@@ -49,8 +49,13 @@ h1{
     font-weight: 700;
     font-size: 3rem;
 }
-.spin-loader{
+
+#my-skills{
+    padding-top: 5%;
+}
+.skills-ele{
     color: #00ADB5;
+    font-family: 'Ubuntu', sans-serif;
     font-size: 2rem;
-    padding-right: 3.5%;
+    font-weight: 700;
 }
