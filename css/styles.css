@@ -49,3 +49,8 @@ h1{
     font-weight: 700;
     font-size: 3rem;
 }
+.spin-loader{
+    color: #00ADB5;
+    font-size: 2rem;
+    padding-right: 3.5%;
+}
