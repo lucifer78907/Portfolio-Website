@@ -19,7 +19,23 @@ h1{
     text-align: center;
 }
 #about-me{
+    color: #393E46;
     font-family: 'Ubuntu', sans-serif;
     font-weight: 700;
     font-size: 3rem;
+}
+.info-me{
+    padding-top: 10%;
+}
+.info-ele{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2rem;
+    font-weight: 300;
+}
+.feature-ele{
+    font-size: 3.5rem;
+    padding-bottom: 5%;
+}
+.feature-ele:hover{
+    color: #00ADB5;
 }
