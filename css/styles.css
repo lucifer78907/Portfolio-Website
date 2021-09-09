@@ -97,3 +97,23 @@ h1{
     font-weight: 700;
     font-size: 3rem;
 }
+#contact-me-head:hover{
+    color: #00ADB5;
+    text-decoration: underline;
+}
+.inter-para{
+    padding-top: 5%;
+    color: #222831;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 700;
+    font-size: 2rem;
+}
+.contact-form{
+    color: #222831;
+    padding-top: 10%;
+}
+.form-label{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 700;
+    font-size: 2rem;
+}
