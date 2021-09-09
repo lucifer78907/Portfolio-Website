@@ -117,3 +117,15 @@ h1{
     font-weight: 700;
     font-size: 2rem;
 }
+#footer-section{
+    text-align: center;
+    background-color: #222831;
+}
+.cc{
+    padding-top: 5%;
+    color: #EEEEEE;
+}
+.footer-icon{
+    color: #00ADB5;
+    font-size: 1.5rem;
+}
