@@ -73,6 +73,15 @@ h1{
     color: #EEEEEE;
 }
 .next-head-skill{
+    text-decoration: underline;
+    padding-top: 5%;
+    color: #00ADB5;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 700;
+    font-size: 2rem
+}
+.bottom-info-ele{
+    padding-top: 5%;
     color: #00ADB5;
     font-family: 'Ubuntu', sans-serif;
     font-weight: 700;
