@@ -122,10 +122,16 @@ h1{
     background-color: #222831;
 }
 .cc{
-    padding-top: 5%;
+    padding-top: 2%;
     color: #EEEEEE;
+}
+.cc-icon{
+    margin-right: 1%;
 }
 .footer-icon{
     color: #00ADB5;
     font-size: 1.5rem;
+}
+#bottom-cont{
+    padding: 2% 7% 1%;
 }
