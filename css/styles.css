@@ -87,3 +87,13 @@ h1{
     font-weight: 700;
     font-size: 2rem
 }
+#contact-me{
+    text-align: center;
+    background-color: #EEEEEE;
+}
+#contact-me-head{
+    color: #393E46;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 700;
+    font-size: 3rem;
+}
